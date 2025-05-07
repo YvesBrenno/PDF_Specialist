@@ -1,0 +1,13 @@
+langchain
+langchain-community
+llama-index
+transformers
+faiss-cpu
+streamlit
+pypdf
+accelerate
+sentence-transformers
+bitsandbytes
+torch
+huggingface_hub
+protobuf
