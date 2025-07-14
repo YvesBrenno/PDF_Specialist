@@ -16,8 +16,8 @@ Este projeto é um sistema de perguntas e respostas baseado em documentos PDF. E
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seuusuario/rag-pdf-reader.git
-cd rag-pdf-reader
+git clone https://github.com/YvesBrenno/PDF_Specialist.git
+cd PDF_Specialist
 ```
 
 ### 2. Crie e ative um ambiente virtual
@@ -39,7 +39,7 @@ streamlit run app.py
 
 ---
 
-## 📥 Como usar
+## Como usar
 1. Suba um arquivo PDF usando o botão "Envie um documento PDF"
 2. Faça perguntas no campo de texto baseado no conteúdo do documento
 3. Veja a resposta gerada com base no conteúdo mais relevante
@@ -48,7 +48,7 @@ Você também pode controlar o número de trechos recuperados e o tamanho da res
 
 ---
 
-## 📌 Observações
+## Observações
 - Funciona melhor com PDFs que tenham texto (não imagens)
 - Documentos muito grandes podem consumir mais RAM e CPU
 - As respostas são baseadas **apenas** no conteúdo do PDF enviado
