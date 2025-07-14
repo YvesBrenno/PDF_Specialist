@@ -12,7 +12,7 @@ Este projeto é um sistema de perguntas e respostas baseado em documentos PDF. E
 
 ---
 
-## 🚀 Como rodar o projeto
+## Coo rodar o projeto
 
 ### 1. Clone o repositório
 ```bash
